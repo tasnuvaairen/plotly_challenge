@@ -1,0 +1,9 @@
+> Anaconda Prompt
+
+> cd \plotly_challenge\Instructions\StarterCode
+
+> python web_app.py
+
+> Browser address bar -> http://127.0.0.1:5000/
+
+
